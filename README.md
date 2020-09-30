@@ -7,5 +7,7 @@ i built this coding challenge using spring framework (J2EE), it consist on fetch
 
 # 3 returning the results sorted (most used programing language -> less used)
 
+![scheme of the process](http://github.com/ssaad-hassouane/gemography_backend_coding_challenge/blob/master/Scheme.JPG?raw=true)
+
 
 
